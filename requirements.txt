@@ -1,0 +1,2 @@
+play_scraper==0.1.11
+xlwt
