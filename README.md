@@ -60,7 +60,9 @@
 * "FAMILY_EDUCATION"
 * "FAMILY_MUSICVIDEO"
 * "FAMILY_PRETEND"
+
 `Collections` specify type of app eg: Free,Paid.
+
 * 'NEW_FREE'
 * 'NEW_PAID'
 * 'TOP_FREE'
@@ -68,17 +70,18 @@
 * 'TOP_GROSSING'
 * 'TRENDING'
 
- `Information` Various data param collected are 
-0."App_Id"
-1."URL"
-2."Icon"
-3."Title"
-4."Developer"
-5."Developer_id"
-6."Description"
-7."Score"
-8."Price"
-9."Free"
+`Information` Various data param collected are 
+
+0. "App_Id"
+1. "URL"
+2. "Icon"
+3. "Title"
+4. "Developer"
+5. "Developer_id"
+6. "Description"
+7. "Score"
+8. "Price"
+9. "Free"
 
 ------------------------------------------
 ### File Structure
